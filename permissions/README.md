@@ -1,0 +1,1 @@
+permissions with one S
