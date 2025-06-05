@@ -1,7 +1,2 @@
 #!/bin/bash
-echo "===== Environment and Local Variables ====="
-declare -p
-
-echo
-echo "===== Functions ====="
-declare -f
+set | less
